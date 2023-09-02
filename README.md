@@ -1,2 +1,3 @@
 # Bank-GoodCredit
 Bank GoodCredit wants to predict cred score for current credit card customers. The cred score will denote a customer’s credit worthiness and help the bank in reducing credit default risk.
+In bank Goodcredit, banks consider and evaluate every loan application based on merits. They check the creditworthiness of every individual or entity to determine the level of risk that they subject themself by lending to an entity or individual.Clients with a high level of risk are less desirable since they present with a high likelihood of defaulting on their loan obligations. Low-risk clients are more likely to get their loan applications approved since the lender considers them creditworthy.
